@@ -1,5 +1,5 @@
 # Random-forests
-Ensemble methods are ideal for regression and classification as they reduce bias and variance and increase model accuracy. Ensemble has two techniques sag and boost. This project focuses on bagging techniques used in random forest models.  This project works with insurance records. The language used in this project is Python. First, import the library. Then the data record is read. Splitting of the tensile test is performed. A random forest model is used for modeling. Feature importance is to create a function, find the important features and plot the features. 
+Ensemble methods are ideal for regression and classification as they reduce bias and variance and increase model accuracy. Ensemble has two techniques sag and boost. This project focuses on bagging techniques used in random forest models.  Splitting of the tensile test is performed. A random forest model is used for modeling. Feature importance is to create a function, find the important features and plot the features. 
 Bootstrap:
 Whether to use bootstrap sampling when building the tree. If False, we use the entire dataset to build each tree.
 
